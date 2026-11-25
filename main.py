@@ -7,8 +7,8 @@ Pure standard library only.
 import os
 
 LINE = (
-    "A museum guard followed me for an hour, then apologised: "
-    "I'd been standing in the exhibit the whole time \u2014 "
+    "A museum guard followed me for an hour, then apologised "
+    "\u2014 I'd been standing in the exhibit. "
     "I'm now catalogued as 'Man Checking His Phone, 2026.'"
 )
 
